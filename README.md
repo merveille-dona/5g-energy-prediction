@@ -1,7 +1,7 @@
-# AI/ML for 5G Energy Consumption Prediction (Updated 2025)
+# AI/ML for 5G Energy Consumption Prediction
 
-This project explores machine learning approaches to model and predict the energy consumption of 5G network products, such as base stations and antennas. It was originally developed in 2019 as part of a Telecommunications and ICT end-of-year project, inspired by Huawei’s [AI/ML for 5G Energy Consumption Modelling](https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling) competition on Zindi.
-In this updated version (2025), the project adopts the winner’s codebase as the baseline model. The goal is to improve prediction accuracy and model efficiency by leveraging recent advancements in artificial intelligence. The model predicts the energy consumption of 5G infrastructure using a combination of technical and environmental features.
+This project explores machine learning approaches to model and predict the energy consumption of 5G base stations. The goal is to improve prediction accuracy and model efficiency by leveraging recent advancements in artificial intelligence. The model should predict the energy consumption of 5G infrastructure in various network scenarios. The project is inspired by the International Telecommunication Union (ITU)  [AI/ML for 5G Energy Consumption Modelling](https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling) competition on Zindi in 2023. 
+
 
 ## Project Structure
 
@@ -9,7 +9,7 @@ In this updated version (2025), the project adopts the winner’s codebase as th
 ```plaintext
 project/
 ├── data/           : data
-├── docs/           : reports, figures
+├── docs/           : reports and details about the project
 ├── experiments/    : experiment configurations and results
 ├── models/         : ml architectures
 ├── src/            
